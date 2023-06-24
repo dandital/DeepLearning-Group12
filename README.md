@@ -41,14 +41,4 @@ Below are a few examples showcasing the visualizations generated during the expl
 
 [Include images or interactive visualizations that demonstrate the insights obtained from the data exploration.]
 
-## Acknowledgments
-We would like to acknowledge the following resources and organizations that contributed to this project:
-- [Mention any datasets, libraries, or tutorials used for data exploration and visualization.]
-
-## License
-[Specify the license under which your project and code are released. Mention any copyright or usage restrictions, if applicable.]
-
-## Contact Information
-If you have any questions, feedback, or would like to collaborate, feel free to reach out to us:
-- [Provide your contact details or social media handles.]
 
