@@ -15,4 +15,6 @@
 |   model_compression_distilibert  |   ipynb  |   compressing distilibert model  |
 | training_two_models_partial_data | ipynb | processing the data and trying to train the models on a fraction of the data to test it |
 |  processed_data  |   csv  |   the preprocessed data |
-| Loading_relevant_models | ipynb | loading the models to the notebook |
+| pruned_model | folder | distilibert after compressing - method 1 |
+| static_quantization | folder | distilibert after compressing - method 2 |
+| knwoledge_distilliation | folder | distilibert after compressing - method 3 |
